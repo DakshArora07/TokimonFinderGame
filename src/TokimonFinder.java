@@ -9,7 +9,7 @@ import java.util.Scanner;
  * <br>
  * <p>
  * This class holds the {@code main()} function of the project which takes optional
- * arguments from the command line and does error checking.
+ * arguments from the user in the command line and does error checking.
  * Then, if everything is good, a new {@link UserConsole} object will be created
  * which will start the game.
  * </p>
